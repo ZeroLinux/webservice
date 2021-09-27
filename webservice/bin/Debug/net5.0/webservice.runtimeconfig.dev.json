@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/imaca1418/.dotnet/store/|arch|/|tfm|",
+      "/Users/imaca1418/.nuget/packages"
+    ]
+  }
+}
